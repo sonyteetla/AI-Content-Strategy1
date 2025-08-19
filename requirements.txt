@@ -1,0 +1,6 @@
+streamlit
+openai
+pytrends
+pandas
+requests
+fpdf

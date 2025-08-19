@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+.secrets.toml
+
+# Ignore API keys
+secretkey.txt
+secrets.toml
+

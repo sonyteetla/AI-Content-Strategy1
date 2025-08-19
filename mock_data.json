@@ -1,0 +1,8 @@
+{
+  "trending_topics": ["Acne patch routines", "Glass skin tips", "Korean skincare hacks", "Night time skincare routine"],
+  "top_formats": ["Instagram Reels", "YouTube Shorts", "Carousel Posts", "30-Day Challenge"],
+  "competitors": [
+    {"name": "SkincareGuru", "posts_per_week": 5, "best_format": "Reels"},
+    {"name": "GlowUpDaily", "posts_per_week": 3, "best_format": "YouTube Shorts"}
+  ]
+}
